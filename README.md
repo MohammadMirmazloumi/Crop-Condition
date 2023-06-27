@@ -1,7 +1,7 @@
 # Crop Condition
 
 Monthly Vegetation indexes from Sentinel-2 images are used as input to classify regions affected by drought.
-This repository includes two codes:
+This repository includes two codes regarding the crop condition monitoring:
 - crop_condition_model
 - model_implementation
 
